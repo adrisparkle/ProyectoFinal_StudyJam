@@ -87,10 +87,17 @@ Autor(a)
 ---
 Adriana Ingrid Centellas
 
+Universidad
+---
+<div align="center">
+    <center>
+        <img src="http://lpz.ucb.edu.bo/Forms/RecursosMultimedia/Logos2016/DosLogos.jpg" width="400px"/>
+    </center>
+</div>
 Contactos
 ---
-Correo electronico: adrianacentellas98@gmail.com
-Whatsapp: +59172570385
+* Correo electronico: adrianacentellas98@gmail.com
+* Whatsapp: +59172570385
 
 [Facebook](https://www.facebook.com/adriana.centellas1) <br>
 [Instagram](https://www.instagram.com/ai.centellas/)<br>

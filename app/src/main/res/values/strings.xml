@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">NavidApp</string>
+    <string name="main.titulo">Lista</string>
+    <string name="detalle.titulo">Manualidades</string>
+    <string name="detalle.tv.nombre">Nombre</string>
+    <string name="detalle.tv.detalle">Manualidades para las fiestas de fin de año</string>
+    <string name="detalle.tv.materiales">Materiales</string>
+    <string name="detalle.tv.procedimiento">Procedimiento</string>
+    <string name="detalle.tv.boton1">Manualidades</string>
+    <string name="detalle.tv.envio">¡Puedes compartirlo con tus amigos!</string>
+    <string name="detalle.tv.boton3">Algunas recetas</string>
+    <string name="detalle.tv.boton2">Ideas de Decoracion</string>
+    <string name="detalle.tv.share2">Compartir imagen</string>
+    <string name="detalle.tv.share1">Compartir Texto</string>
+
+
+    <string name="main.m1.titulo">Esferas de lana</string>
+    <string name="main.m2.titulo">Tarjeta Reciclada</string>
+    <string name="main.m3.titulo">Cajitas de bombones</string>
+    <string name="main.m4.titulo">Adorno de angelitos</string>
+    <string name="main.m5.titulo">Renos reciclables</string>
+    <string name="main.m6.titulo">Angel reciclado</string>
+    <string name="main.m7.titulo">Renos coquitos</string>
+    <string name="main.m8.titulo">Renos Botellas</string>
+    <string name="main.m9.titulo">Tarjeta con cinta</string>
+    <string name="main.m10.titulo">Guarda cubiertos</string>
+    <string name="main.m11.titulo">Colgantes navideños</string>
+    <string name="main.m12.titulo">Colgantes reciclables</string>
+    <string name="main.m13.titulo">Tarjeta con botones</string>
+    <string name="main.m14.titulo">Rosca con cds</string>
+    <string name="main.m15.titulo">Arbolito de lana</string>
+    <string name="main.m16.titulo">Arbolitos hechos de cintas</string>
+    <string name="main.m17.titulo">Palitos y botones = copos</string>
+    <string name="main.m18.titulo">Tapacoronas de nieve</string>
+
+
+    <string name="main.m1.materiales">Necesitaremos:
+        *Lana
+    *Pegamento
+    *Globos
+    *Agua</string>
+    <string name="main.m2.materiales">Necesitaremos:
+        *Sacapuntas
+    *Lapices
+    *Cartulina
+    *Marcadores de colores</string>
+    <string name="main.m3.materiales">Necesitaremos:
+        *Cartulina
+    *Cintas de colores
+        *Marcadores de colores
+    </string>
+    <string name="main.m4.materiales">Necesitaremos:
+    *Tela de mosquitero
+    *Cinta
+    *Bolitas de plastoformo
+    *Pegamento</string>
+    <string name="main.m5.materiales">Necesitaremos:
+        *Cilindros de carton
+    *Cartulina cafe
+    *Marcador negro
+    *Bolas de lana</string>
+    <string name="main.m6.materiales">Necesitaremos:
+        *Papel periodico o papel de libros
+    *Bolita de plastoformo
+    *Glitter o escarcha
+    *Cinta</string>
+    <string name="main.m7.materiales">Necesitaremos:
+    *Coquitos
+    *Cintas
+    *Ojos movibles
+    *Cartulina roja
+    *Ramitas pequeñas</string>
+    <string name="main.m8.materiales">Necesitaremos:
+    *Botellas pequeñas
+    *Limpiapipas en color guindo o cafe
+    *Ojos movibles
+    *Cartulina color rojo</string>
+    <string name="main.m9.materiales">Necesitaremos:
+    *Cartulina
+    *Marcadores de colores
+    *Cintas de colores</string>
+    <string name="main.m10.materiales">Necesitaremos:
+        *Cartulina de color rojo y verde
+    *Papel negro y blanco
+    *Pegamento</string>
+    <string name="main.m11.materiales">Necesitaremos:
+    *Cartulina en color rojo
+        *Cinta negra
+    *Abridores de latas
+    *Hilo plateado o dorado
+    *Glitter</string>
+    <string name="main.m12.materiales">Necesitaremos:
+    *Pirotines medianos o pequeños de colores rojo y blanco
+    *Hilo dorado o plateado</string>
+    *Lentejuelas en forma de estrella
+    <string name="main.m13.materiales">Necesitaremos:
+    *Papel de sobre manila o cartulina
+    *Botones blancos de diferentes tamaños
+    *Cinta
+    *Marcadores de coloes</string>
+    <string name="main.m14.materiales">Necesitaremos:
+    *CDs que no sirvan
+    *Carton
+    *Cintas de colores</string>
+    <string name="main.m15.materiales">Necesitaremos:
+        *Cono de carton o plastoformo
+    *Lana verde
+    *Pegamento
+    *Agua
+    *Lentejuelas</string>
+    <string name="main.m16.materiales">Necesitaremos:
+    *Brochetas
+    *Cintas de colores
+        *Carton
+        *Papel estañado
+        *Plastoformo
+        *Pegamento
+        *Cinta adhesiva
+    *</string>
+    <string name="main.m17.materiales">Necesitaremos:
+    *Palitos de helado
+    *Botones
+    *Pegamento</string>
+    <string name="main.m18.materiales">Necesitaremos:
+    *Tapacoronas
+    *Pintura blanca
+    *Cintas de colores
+    *Marcador negro</string>
+
+
+    <string name="main.m1.procedimiento">Primero mezclaremos el pegamento
+        con el agua en partes iguales en un recipiente. Luego procederemos
+        a inflar los globos. Pasamos la lana por la mezcla de pegamento y
+        agua, empezaremos a enrrollarlo en el globo inflado. Dejamos secar.
+        Cuando este seco con una aguja reventamos el globo y podemos agregarle
+        una cinta para que sea un colgante o añadir la espera a las luces del arbol.</string>
+    <string name="main.m2.procedimiento">Cortaremos la cartulina del tamaño que deseemos
+        la tarjeta. Sacaremos punta a los lapices de colores que escojimos, trataremos
+        de hacer que la viruta sea lo mas larga que se pueda. Entonces cortamos la
+        viruta para formar una piramide, pegamos a la cartulina en forma decreciente
+        de abajo a arriba. Hacemos un lazo y lo pegamos en la cartulina.
+        Utilizamos los marcadores para escribir la felicitacion.</string>
+    <string name="main.m3.procedimiento">Copiaremos el molde de los arbolitos sobre
+        la cartulina. Lo recortaremos con mucho cuidado. Haremos los dobleces en las
+        lineas rectas. Perforaremos las puntas de cada lado. Ingresaremos la cinta por los agujeros
+    y cerraremos la caja con un lazo.</string>
+    <string name="main.m4.procedimiento">Cortaremos la tela de mosquitero, primero un rectangulo
+        con las puntas redondeadas, luego un cuadrado para armar un cono, forraremos la bolita
+        de plastoformo con tela. Pegaremos la cinta en los bordes del mosquitero. Armaremos el angelito.</string>
+    <string name="main.m5.procedimiento">Cortaremos la cartulina con forma de cuernitos de reno.
+        Pegaremos los cuernos por dentro del cilindro. Pegaremos la bola de lana al medio del
+        cilindro. Marcaremos sus ojos con marcador negro.</string>
+    <string name="main.m6.procedimiento">La bolita de plastoformo la llenaremos completamente de
+        glitter o escarcha con pegamento y la dejaremos secar. Dos hojas de periodico la doblaremos
+        en forma de abanico y una media hoja de la misma forma. Las dos hojas las pegaremos en forma
+        de cono. Por la espalda pegaremos la media hoja que son las alas. Haremos un lazo con la cinta y la
+        pegaremos en la punta del cono. En la punta tambien pegamos la bolita de plastoformo.</string>
+    <string name="main.m7.procedimiento">Limpiamos los coquitos. Pegamos los ojos movibles en la parte superior media del coquito.
+    Cortaremos circulos pequeos de la cartulina roja y los pegaremos en la parte inferior del coquito. Pegamos la cinta arriba del coquito
+    en forma de colgante. Las ramitas las pegaremos en las partes laterales.</string>
+    <string name="main.m8.procedimiento">Armaremos dos cuernos de reno con los limpiapipas, y los pegaremos a otro limpia pipas para colocarlo en la parte superior de la botella.
+    Pegamos al medio los ojos movibles y circulos de cartulina roja. Podemos rellenar las botellas con chocolates o frutos secos.</string>
+    <string name="main.m9.procedimiento">Haremos cortes pares en la cartulina a una distancia simetrica en orden ascendente desde arriba a abajo.
+    Metermos la cinta por los cortes y terminando arriba con un lazo. Pordemos escribir la felicitacion con marcadores de colores.</string>
+    <string name="main.m10.procedimiento">Cortaremos las cartulinas en forma rectangular, pegaremos los bordes para formas un cilindro y luego lo aplanaremos.
+    Cortaremos con el papel negro unos pequeños rectangulos y pequeños circulos, con el papel blanco unos marcos cuadrados que sean medio cm mas grandes que el rectangulo.
+    Pegaremos el rectangulo en los cilindros y encima el marco blanco. Por encima del cinturon pegaremos los pequeños circulos.</string>
+    <string name="main.m11.procedimiento">Cortaremos circulos de la cartulina roja de un radio de 5 cm. Cortaremos pedazos de cinta negra de 12 cm, y haremos pasar el abrelatas en forma de hebilla por la cinta.
+    pegaremos la cinta al medio del circulo rojo y adornaremos con glitter los botones. Podemos agregar un hilo en la parte superior para que sea un colgante para el arbol.</string>
+    <string name="main.m12.procedimiento">Doblaremos los pirotines en forma de triangulo y los pegaremos uno sobre otro. Pegaremos una lentejuela en la parte superior y ahi mismo pegaremos la cinta del colgante.</string>
+    <string name="main.m13.procedimiento">En la parte principal de la tarjeta pegamos tres botones blancos, pintamos los brazos y la nariz del muñeco con marcadores y adoramos la tarjeta con cintas.</string>
+    <string name="main.m14.procedimiento">Armaremos varios lazos con las cintas de diferentes tamaños y colores. pegaremos los cds en forma de circulo uno tras otro. Pegaremos el arreglo de cintas en la parte inferior del circulo de cds.</string>
+    <string name="main.m15.procedimiento">Primero mezclaremos el pegamento
+        con el agua en partes iguales en un recipiente. Pasamos la lana por la mezcla de pegamento y
+        agua, empezaremos a enrrollarlo en el cono. Dejamos secar.
+        Cuando este seco retiramos la base. Podemos adornarlo con lentejuelas.</string>
+    <string name="main.m16.procedimiento">Hacemos pasar la cinta en forma de zigzag por la brocheta en forma de triangulo. La base sera un cuadrado de plastoformo forrado con papel estañado y  la estrella sera de carton y papel estañado.</string>
+    <string name="main.m17.procedimiento">Pegamos los palitos en forma de asterisco. Pegamos los botones en todas las partes del asterisco. Podemos añadirle un colgante con cinta o hilo.</string>
+    <string name="main.m18.procedimiento">Pegamos tres tapas en forma vertical y los pintamos de blanco. Le agregamos una chalina con cinta. Pegamos el colgante con cinta. Y pintamos sus ojos, nariz y boca con marcadores de colores.</string>
+</resources>

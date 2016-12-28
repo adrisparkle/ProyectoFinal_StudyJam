@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_intro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:background="#fff"
+    android:layout_marginTop="30dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.sparklesfactory.appnavidad.IntroActivity">
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/icon"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="160dp"
+        android:id="@+id/varita"/>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Sparkles"
+    android:textColor="#ff6db3"
+    android:layout_marginLeft="110dp"
+    android:textStyle="italic|bold"
+    android:textSize="45dp"
+    android:layout_marginTop="150dp"
+    android:fontFamily="serif"
+    android:id="@+id/s"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Factory"
+        android:textColor="#000"
+        android:layout_marginLeft="110dp"
+        android:textStyle="italic|bold"
+        android:textSize="50dp"
+        android:layout_marginTop="200dp"
+        android:fontFamily="serif"
+        android:id="@+id/f"/>
+</RelativeLayout>

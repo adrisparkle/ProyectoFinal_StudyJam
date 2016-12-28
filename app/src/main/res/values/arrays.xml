@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombre">
+        <item>@string/main.m1.titulo</item>
+        <item>@string/main.m2.titulo</item>
+        <item>@string/main.m3.titulo</item>
+        <item>@string/main.m4.titulo</item>
+        <item>@string/main.m5.titulo</item>
+        <item>@string/main.m6.titulo</item>
+        <item>@string/main.m7.titulo</item>
+        <item>@string/main.m8.titulo</item>
+        <item>@string/main.m9.titulo</item>
+        <item>@string/main.m10.titulo</item>
+        <item>@string/main.m11.titulo</item>
+        <item>@string/main.m12.titulo</item>
+        <item>@string/main.m13.titulo</item>
+        <item>@string/main.m14.titulo</item>
+        <item>@string/main.m15.titulo</item>
+        <item>@string/main.m16.titulo</item>
+        <item>@string/main.m17.titulo</item>
+        <item>@string/main.m18.titulo</item>
+    </string-array>
+
+    <string-array name="materiales">
+        <item>@string/main.m1.materiales</item>
+        <item>@string/main.m2.materiales</item>
+        <item>@string/main.m3.materiales</item>
+        <item>@string/main.m4.materiales</item>
+        <item>@string/main.m5.materiales</item>
+        <item>@string/main.m6.materiales</item>
+        <item>@string/main.m7.materiales</item>
+        <item>@string/main.m8.materiales</item>
+        <item>@string/main.m9.materiales</item>
+        <item>@string/main.m10.materiales</item>
+        <item>@string/main.m11.materiales</item>
+        <item>@string/main.m12.materiales</item>
+        <item>@string/main.m13.materiales</item>
+        <item>@string/main.m14.materiales</item>
+        <item>@string/main.m15.materiales</item>
+        <item>@string/main.m16.materiales</item>
+        <item>@string/main.m17.materiales</item>
+        <item>@string/main.m18.materiales</item>
+    </string-array>
+    <string-array name="procedimiento">
+        <item>@string/main.m1.procedimiento</item>
+        <item>@string/main.m2.procedimiento</item>
+        <item>@string/main.m3.procedimiento</item>
+        <item>@string/main.m4.procedimiento</item>
+        <item>@string/main.m5.procedimiento</item>
+        <item>@string/main.m6.procedimiento</item>
+        <item>@string/main.m7.procedimiento</item>
+        <item>@string/main.m8.procedimiento</item>
+        <item>@string/main.m9.procedimiento</item>
+        <item>@string/main.m10.procedimiento</item>
+        <item>@string/main.m11.procedimiento</item>
+        <item>@string/main.m12.procedimiento</item>
+        <item>@string/main.m13.procedimiento</item>
+        <item>@string/main.m14.procedimiento</item>
+        <item>@string/main.m15.procedimiento</item>
+        <item>@string/main.m16.procedimiento</item>
+        <item>@string/main.m17.procedimiento</item>
+        <item>@string/main.m18.procedimiento</item>
+    </string-array>
+    <integer-array name="image">
+        <item>@drawable/m1</item>
+        <item>@drawable/m2</item>
+        <item>@drawable/m3</item>
+        <item>@drawable/m4</item>
+        <item>@drawable/m5</item>
+        <item>@drawable/m6</item>
+        <item>@drawable/m7</item>
+        <item>@drawable/m8</item>
+        <item>@drawable/m9</item>
+        <item>@drawable/m10</item>
+        <item>@drawable/m11</item>
+        <item>@drawable/m12</item>
+        <item>@drawable/m13</item>
+        <item>@drawable/m14</item>
+        <item>@drawable/m15</item>
+        <item>@drawable/m16</item>
+        <item>@drawable/m17</item>
+        <item>@drawable/m18</item>
+    </integer-array>
+</resources>

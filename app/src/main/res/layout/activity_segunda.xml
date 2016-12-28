@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_segunda"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="5"
+    tools:context="com.sparklesfactory.appnavidad.SegundaActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical">
+        <!--Sobre poner vista solo se puede con un relative-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/fondito"
+                android:scaleType="centerCrop"/>
+            <!--Alpha usa la transparecia de los atributos del 0 al 1-->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#000"
+                android:alpha="0.6">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/app_name"
+                    android:textColor="#fff"
+                    android:gravity="center"
+                    android:textSize="50sp"
+                    android:id="@+id/tit"
+                    android:layout_marginTop="0dp"
+                    android:textStyle="italic|bold"
+                    android:fontFamily="cursive" />
+            </RelativeLayout>
+                <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:layout_marginTop="60dp"
+                 android:orientation="vertical">
+                        <ListView
+
+                            android:id="@+id/lvLista"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="5dp"
+                            android:alpha="0.7"
+                            android:elevation="1dp"
+                            android:background="@drawable/fondo_lista"/>
+
+
+             </LinearLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</LinearLayout>

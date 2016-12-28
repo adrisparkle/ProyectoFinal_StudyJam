@@ -29,7 +29,7 @@ https://ninjamock.com/s/VRV4G
 
 Compatibilidad
 ---
-Esta aplicación es compatible con versiones de Android 4.2 o superior.
+Esta aplicación es compatible con versiones de Android 4.0.2 (Ice Cream) o superior.
 
 Uso
 ---------
